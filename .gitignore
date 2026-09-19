@@ -1,2 +1,7 @@
-config.bat
 node_modules
+
+# local env + editor state
+.env
+.env.local
+.env.*.local
+.vscode/
